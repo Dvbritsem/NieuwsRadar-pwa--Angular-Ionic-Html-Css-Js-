@@ -1,0 +1,207 @@
+{
+    "news": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.1194197,  
+                        51.9303916
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 1,
+                    "title": "Voetbal club CMGT doet het erg goed. Hoe kunnen ze zo goed zijn zonder te bestaan?",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": true,
+                    "broadcaster": "https://www.rtvutrecht.nl/inc/css/images/logo-rtvutrecht-samen-voor-elkaar.png",
+                    "categories": [
+                        0
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.663412,  
+                        52.285802
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 2,
+                    "title": "Voetbal niet meer zo populair. Kan dit komen door het weer?",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": false,
+                    "broadcaster": "https://www.rtvutrecht.nl/inc/css/images/logo-rtvutrecht-samen-voor-elkaar.png",
+                    "categories": [
+                        0
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        4.684990,  
+                        51.938339
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 3,
+                    "title": "Basketbalvelden worden nat in de regen. Is het tijd voor ander weer?",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": false,
+                    "broadcaster": "https://www.rijnmond.nl/Content/Images/rijnmond/logo.png",
+                    "categories": [
+                        2
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        5.471025,  
+                        51.437745
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 4,
+                    "title": "Tennis verboden in Eindhoven. De kleur van de bal is niet mooi.",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": true,
+                    "broadcaster": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALEAAAAyCAYAAAATDTqzAAAP20lEQVR4nO1dTWwUyRX+VtEKRRHakruFrMU9mr1lb7Mit0hmoijSXggjcVwpnksO5ILFnnJImNvmhiXY48qWkkNudsJqFzaAB/OjxRDGy7KYrIEZYMEGY88su/y1Z+bl0N3u6uqqrur50YTgJz3J6umq+rrq69evXr0qAwDWgXPrQHsdoFdM22vA/TrwK2zJ6ytrwKk1gF5lfQw8HXQ/bskA5THw7LFHhJ7q97t3S3WNsZ639Righ8AvB92XWzIgeQS4jwDqVp+MjdHzyUlqVqukk3a9Ti+mp+nHAwdoLZvtuu1HnkX+/aD7cksGJA8B96FnyVLr42yWnk1OUrte1xI3SV7OzlJj796OMAS62gWJGWPMtkd22/bIbsZ25nrZv/8LwtjOXPh8jA0aT89lBXBXAEqjjxijZ5OTXRFXJs1qldbz+VRYOE1NYstyiradqdh2hni1rEzdspxJxoazmvJTtu3MDg1lxlO0WbBtZ9a2nVnZ77btlC0rU5Vh8ts6YEJExoazluVMeuWiddl2pmJZmbGk8rbtlAOcSWpZTjH6fCMTqj4N8Sf3a2pZBtxlgEy1USxSS2F5209q1Lw7Qc1Knjbmc+SeRlTnGDUreWouFql1f0ZJ5ufT0/SQMWNMyylJ7FmmaEdbVqZhWZmahMxFVT38vSYDwxhjPEF1darUI8RIXtWO/3KKZWqSuioq3CY4fC1Fyzlls2dQ92tqeQC4DwDS6Qpj9FRifdsvG9S8XaKNC9k4aXU6x6i5WKT205rUKq/mclpcm/gMSewTqR4Q17YzJXEgLcsp8oNuWU5BVpcwKFO6tm07U4oSP+66hPWNTPCYbXskb9uZko9Z+eLwBLasTE3E7lnokQnunqrMsvPP5bUtVxFDQGKxP2x7JC/2a5ovWKLcA9zvAErSB4yRW6nEiNZanuqMvBJtLhap7Tai9dfrtJrPJ2LbxGhIYt5SJPm/HnGchcDyiQPtW3OKklJtjfmXJ9S4NVVZOFm7IlE8ggZtOAtJbkeU7PEXUIdDJVz/KvAzFhDZsjLVNHUr5S7g3gNIpfclBG67Dbm70K3OMWotT8Velkf5vBIfp1oS+9bMeHAEokbuj9Yltz7R+z0r7A2g93J0QmLvnk2iVPjrntU0d2+S7u8XiQFgaCgzbmJIjOUO4N4FSKUvRQJ/v0DuHOs9gXmrfLsUs8gruZwS411DEvOfUdNZekjQqNWIkjj8W0aeqAvjFJMG2oQ8wXNYVqYRve65GiaujYdrOKt+SftHYrHv0tQvlTuAewcgmT6ZmIiS6eFM3wnMuxe8bFSrdI8xKU5fDUgc+GNO2bR/eD+WJ2h43asryRoHlseyMjX+3k5JHFry8DkEN6No/nzxukxxKOpLaYl7EKmoAW4NIFEfFQpRC9xItsDlI9vozNFt9NH+t5T68Yfb6czRbbR67I2OLPLT6ekYzkBNSNzJwKisRpzEvDWOWvnQB/TIxX0RYjh0GAVftqjDqX8+1ZcmnPiZhtf4+jQ+cZV/qbuW24B7GyBea4zRBrfy1n7ZSJzAiRMcE/3t7h30tz//TE/ku1Ef+WGhQCJeXwdKYu9afAAD0vEDJisbx+jM2nbmUKjOYTsSFnQWhHLSL4b++cJychzm4TW+DyzLmQwWWEJ1DvOTW1XUJ7XcAtxbAPG6XopawGYln0i0TkjMkznRMs8xaj0JQ3Ab1SqJeG8NgMThpIgnsXcvH80IP9dhm2YklmsYFhStvVPoxBJbljMT1CvDkRRik70sJnFiLybfwzjxTcC9CVCgtxmLLGa062WtteyGxAGR0/jHj4pF4jH7auITBxOfGdP+iS4c8JZY/tnkXQeO1A2edIaWuOzfV7K5+LBlOdMynN26E33wiXnS1ryVSGfGspxiz5e+lwB3CaBAV8fHU1lhFYlHdw3TntEd9NH+t+iD923aM7qD3nFGlET+65+SXYvW+sImpheVCvGYl4xJvGl1jOOTfBiKv64m8ab7UA3aE+8JJzaJllhar23LFwm8uHZAmnChRCe8xTXBoa9PP7HruXwLuN8CFOgLLqTWWp0xmoDJSFk+sk1679GD26X3f/C+nWyNv45ONO/kcsTjNiSx1KqqRAiNRax30mDxq2q2LYvBhlZTLJtEnmhcV7baJ5+kqUSYJEb801eKxDcA9wZANwC6lc1GrfBiseckdk+D9ozuiN3/3rtva9tpvwhX9FZLJQpw3wDoP4Yrdvxqke6zxpNGJD23fFoSy9ncZEm+GtYZifnVLltY6BDr1ZFIWH6vpcGRJAMh8SLgLgK0CNCDYtT3NI0J94LEtp3RRyruh5GKp+UyBbh9NSQxPwGSJ8B4A+xMJhMxmWzJFrMzEotlFdZ6hvv9kKyOeAJUZyuHcnwDIPF1wL0O0HWA6lMhSUxdibQkXj32Br337tux+/eMJk/uZBO8APf1FCQG4lleluVM234oS0xfVE0Cud+Lafu8GxL7+APfXpLTwRg/uQrSSrnnmxaeXYqfK1/VpWPyL+pASPwN4H4D0DcA/Vguh67E7VLPSHzlkzfpzNFt9PGH26UEtu0MHT24XdvOxoWou3Mrl6MAexoSAwGR1OGgIJSlLm/uW8vblpc3IXHScjFXT0n0zaPqlJPyFtTlZKqP2vRVrgHuNYCuAVF/uEsSp9HRXcPGbfFSzecpwJ6WxIH4n9aSn+Be9v8u6Pxl2w99dbJs6pNQWj64rns5/K9JKSmd0XeLCl59Ttn38UsmSTchDr3yzxDg6klOhKlcBdyrAF0VSWwQWusFiffvGzJehhZJ/GB8nALsV7f22L2+8hXgfgXQVwMi8Xvvvm20/LzpFz8IXZ6VUokC7Fskfo1lAXAXAFoYEIkD/cO+ITMSPw7j2MulEgXYt0j8GksFcCsAVUQSf13oisT79w1FMtg+eN+m0V3DiUTWrdqJ7sSdYpEC7JUtEr++cgVwrwB0BaBmI1xM6GV0gtebf/+JMk68+xf6CR4vS/k8Bdi3SPway2XAvQzQZYCe8CG2uxN9IbF72osVq6xxUjsb87kIib/OZinA/m8DEgfb2P00R3G3c92Pex62LGdvN+U72XLjxX752Ks+ScbLSw7KxEJos5blTFtWZixNwo0fyZgNVR9liOJwDqe4dza87hRNjgiI5zSPTOAS4F4C6BJAK9xOjla90jcSu6ehTAa68smbyjKtpTA5qdloUID7EkDz6ffY6bQiDn668mZEDAcwVkdJ/zxmWLxFEf2LJcSfN59DjyMab09KQBLv5Z6lZPo8Ar4y5gF33iMBLQm7OUx3MvfSEieF21qr4ZdifWaGAtzz/SEx2UJ+QtryJvkZsoENiaeNVafBUtcfBhPuQeRV9wLI8atWAvtA4ouAexGgiwBdZixC4tbSeF9IvH/fkBKUsp25KLY74+MU4L7YIYnFhO+hocx4PAONX1IVy2dq/nkKBdtbJJkRn0d3tkLSi6Fb0hYGc4F/Fv/zvGCKRX6kQNhPyTjkK59JmXZxEnvnavAaTcDyCCu5p4gvAfdLgAJdnwlP5mk/rXZM4mA/XaAff7id/vg7plx2tu3kdEzelSAiuswY8bg7tMQl8R5+E6M48PHy8XxgsbxuUyo/UN5hJ/yhLckplbp2xLMxkjYDyHBHCam24ioSy74mKhLL69WPFwDgAuBeACjQG4JLYZKO2dlnIIX1nmPUfh7uNlmbmSEe8wWAzveJxHyerQmJ44eqqEks8UFLcTKpJ1Z6LNH6kyxq9JgrL6/CiEDQbUmK+tR9IfF5wD3vkWBTX9TCPW2tH/TWuBcE/mj/W+qoxM3onr9r+TyJmLslsX96zlg0g03cVqQnsZDqmUhiO3as1XCWT+PUWU9VO37OxF47drCf/IWQuFlF73rojlhWpq7GIU7sRDeA31/YBxKfA9xzAPG6KFhjnW/cDXnfcUYSFzk25nPUehZa4Ua5TCLec52TWKkegaM+XRKJfZ9yTPQrTa0fT1aRBD049C/RH+Z9eX7DqCRltSjHIboe4RFg4TWvL/tC4rOAexYgURtczJgoeQUv93O1n6vS0V3DdPTgdu1OZ36ZmYjoUjYbw3q2PySuxrfspI5ONFQEFC02T5C4NVemW5riqNt25pAs2pHkcohfBVW4TUZM/8vW4DBUxVznnpF4DnDnABJ1PpulDW4Fr/2irj1/rXxkG5WPbKOjB7dLD0/5x19+qo0f89pcno4QuFYqxXBy2o8QW8IBJVri1JJCUyrrF/6un+B18CyTYh2iDy5iFiMuJtv0ubLCizoy0RcSlwG3DJBMbwjblZrrlf4cJCgj8HeTkbbr5bIUI6ddT+wYYyw+sQt9QVMS66IKceuXqdqRg1Iyh+zYimD8oBHBSpbF3y3LKcQT45V7BQON4IjvBIkvZCQRU4w9i+5WUj8Zk3gWcGcBUuk94Ty29st6quSg1DrHqNWIuhA/LCzQWcaUGGd7RGLVoAQDr/KJxU9nYodDFs4ysqJTcZzJJPbvKalwyY6n7eQFTSKxsLk1pqo+kve3ok9PA+5pgJJ0eSp+3Grr2wO9t76VPDUb1Ug7z2s1mmMsEd/pAZMYkPqxypWupEFN0njMtTsSS6IIpi+UMFdIdhGSvmCKoVKVK0lvPAW4pwDS6V3BIhN54bfm9bGuybtxIUsb96dj9f+wsEBnGNNi87UnJJZ1eOAH6kJskhW72Lb6+AKEdzqOTOP/fiEaHdCR2HdbRLdksw5h4tVQ4RAjDfGDVvR+rmpJWzlY8rEoSW88CbgnATLR68ViZLK36St/X6XW0oHUp8Y3r+6ll0uTsfqIiB5MTVGZMSNcJzskcdQXjWemieTQkdj/dEbcCjG0FfcR1UvLEusu5HJEnmVzV7Pnx8Yz2/i4tyR8NqXCIUsMisbP9SRWuRWqNr16DUn8BeB+AZCpns1maV0Iv0UIvVahVvUQtaqHaOPK7og2r49517+LW91ANhoNWigUjPEE+q8+RCfEWLHJYoctfL7Fpdd4bobuABf1aUJpniVuhaNfDd0JlZL7N+syjTjIsvWS2jQm8QnAPQFQWq0UCvSMW9nrVjYaDbpZKtEpxlJjOQHQ8Z7HiZ2ppOOnVCT2BitmcUr+IIqxYe3BhqLfGs3lMCWwU+ajEvFVwXiIT4JDtNyb2NOFzfoQYjsOuMc9EnSklUKBHs6o/52XTp7VanRjfJxOMdYxhuOGJA46JtxWLtORvMo6hv/FKDjaVD5x8z6/8fvi103+bZi8Lu+3nblwS35cvaMH5CccmTxHUpnoS7EzJ7tu8jxp2lT21+eA+zlA3epJxuhKoUDViQlaK5elvjMR0Vq5TCszM7Q4Pk7nc7mu2w3UlMRb8n8onwE/fgbQq64ngN8Mui+3ZEDyKXDyU4BecX0x6H7ckgHLMeD8MaB9DKBXTf8JrBwDfj3oPtySwcl/AXPpXQpzbqCrAAAAAElFTkSuQmCC",
+                    "categories": [
+                        1
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        6.125236,  
+                        52.503684
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 5,
+                    "title": "Zwolle zou meer icoontjes willen hebben voor de politie. De politie grijpt in.",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": false,
+                    "broadcaster": "https://www.rtvoost.nl/Content/Images/oost/logo.png",
+                    "categories": [
+                        5
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        4.887054,  
+                        52.359667
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 6,
+                    "title": "Amsterdam heeft vannacht in brand gestaan. Lees hoe Rotterdam moest helpen.",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": true,
+                    "broadcaster": "data:image/jpeg;base64,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",
+                    "categories": [
+                        3
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        4.353869,  
+                        52.053335
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 7,
+                    "title": "Brandweer rukt uit om een kerstboom te blussen.",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": false,
+                    "broadcaster": "https://www.omroepwest.nl/Content/Images/west/logo.png",
+                    "categories": [
+                        3
+                    ]
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        6.096339,  
+                        52.120842
+                    ]
+                },
+                "type": "Feature",
+                "properties": {
+                    "id": 8,
+                    "title": "Apeldoorn heeft een tekort aan doktoren. Studenten schieten te hulp.",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a purus at ipsum finibus commodo. Suspendisse interdum, mauris at scelerisque pulvinar, neque tellus laoreet libero, et interdum lectus mi sit amet metus. Ut malesuada hendrerit mi, at semper turpis laoreet nec. Morbi porta dui lacus, et imperdiet eros volutpat in. Proin aliquet, nisl non mattis molestie, justo orci ornare ligula, vitae mollis nisi lacus sit amet nisi. Aenean porta aliquam lectus, id lobortis dolor posuere ut. Nam et mauris eu dolor convallis feugiat posuere at nulla.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus viverra sem ac tortor dapibus sollicitudin. Vivamus hendrerit sodales mi ac sagittis. Donec vel sapien arcu. Praesent dignissim eleifend sem, porta mattis nisl varius sed. Quisque ac felis vitae lorem venenatis fringilla. Integer sit amet magna placerat, ullamcorper leo ac, facilisis enim. Cras tempus scelerisque fermentum.",
+                    "pubDate": "2020-12-01 08:54:00",
+                    "author": "",
+                    "thumbnail": "",
+                    "link": "https://rtvu.nl/n/2116253/",
+                    "trending": false,
+                    "broadcaster": "https://www.omroepgelderland.nl/Content/Images/gelderland/logo.png",
+                    "categories": [
+                        4
+                    ]
+                }
+            }
+        ]
+    }
+}  
